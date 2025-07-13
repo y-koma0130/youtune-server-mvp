@@ -1,0 +1,7 @@
+{
+  "python.formatting.provider": "black",
+  "python.pythonPath": "venv/bin/python",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ms-python.python",
+  "python.envFile": "${workspaceFolder}/.env"
+}
